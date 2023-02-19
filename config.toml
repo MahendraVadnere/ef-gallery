@@ -51,4 +51,4 @@ disableKinds = ["section", "taxonomy", "term"]
         source = "static"
         target = "static"
     [[module.imports]]
-        path = "github.com/MahendraVadnere/ef-gallery"
+        path = "github.com/bep/gallerydeluxe"
