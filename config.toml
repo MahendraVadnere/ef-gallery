@@ -1,4 +1,4 @@
-baseURL      = "https://gallery.epicforwards.com/"
+baseURL      = ""
 title        = "Image Gallery"
 disableKinds = ["section", "taxonomy", "term"]
 
